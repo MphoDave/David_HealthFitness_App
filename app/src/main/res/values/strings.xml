@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">David_HealthFitness_App</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="default_text" />
+</resources>
