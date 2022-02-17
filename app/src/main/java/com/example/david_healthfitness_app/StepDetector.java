@@ -21,7 +21,7 @@ public class StepDetector {
 
     private StepListener listener;
 
-    public void registerListener(StepListener listener) {
+    public void registerListener(MapsActivity listener) {
         this.listener = listener;
     }
 
