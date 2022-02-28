@@ -4,6 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/pc/AndroidStudioProjects/David_HealthFitness_App/app/src/main/res/layout/activity_main.xml" value="0.1921875" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/David_HealthFitness_App/app/src/main/res/layout/activity_maps.xml" value="0.17" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/David_HealthFitness_App/app/src/main/res/layout/activity_monitor.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/David_HealthFitness_App/app/src/main/res/layout/activity_temp.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/David_HealthFitness_App/app/src/main/res/layout/activity_thermometer.xml" value="0.1921875" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/David_HealthFitness_App/app/src/main/res/layout/attrs.xml" value="0.1921875" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/David_HealthFitness_App/app/src/main/res/layout/thermo.xml" value="0.5" />
         <entry key="..\:/Users/pc/AndroidStudioProjects/David_HealthFitness_App/app/src/main/res/menu/menu_main.xml" value="0.1921875" />
       </map>
     </option>
@@ -13,5 +19,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
   </component>
 </project>

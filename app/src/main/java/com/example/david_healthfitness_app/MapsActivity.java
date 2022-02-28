@@ -340,5 +340,11 @@ public class MapsActivity extends AppCompatActivity implements SensorEventListen
         startActivity(intent);
     }
 
+    public void StartThem(View view) {
+
+        Intent intent = new Intent(MapsActivity.this, Thermometer.class);
+        startActivity(intent);
+    }
+
 
 }

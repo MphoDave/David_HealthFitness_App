@@ -39,6 +39,15 @@
 
         />
 
+    <Button
+        android:id="@+id/btn_them"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="StartThem"
+        android:text="Check Temperature"
+
+        />
+
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/map"
         android:layout_width="wrap_content"
