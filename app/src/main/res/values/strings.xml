@@ -2,4 +2,25 @@
     <string name="app_name">David_HealthFitness_App</string>
     <string name="title_activity_maps">Health Fitness</string>
     <string name="default_text" />
+    <string name="weight" />
+    <string name="height" />
+    <string name="calculateBMI" />
+    <string name="very_severely_underweight" />
+    <string name="severely_underweight" />
+    <string name="underweight" />
+    <string name="normal" />
+    <string name="overweight" />
+    <string name="obese_class_i" />
+    <string name="obese_class_ii" />
+    <string name="obese_class_iii" />
+    <string name="bmi" />
+    <string name="calculate" />
+    <string name="lbs" />
+    <string name="kg" />
+    <string name="in" />
+    <string name="ft" />
+    <string name="cm" />
+    <string name="metric_units" />
+    <string name="imperial_units" />
+    <string name="bmi_calculator" />
 </resources>

@@ -165,6 +165,12 @@ public class MapsActivity extends AppCompatActivity implements SensorEventListen
 
     }
 
+    public void StartBMI(View view) {
+
+        Intent intent = new Intent(MapsActivity.this, MainActivity.class);
+        startActivity(intent);
+    }
+
 
     private class DownloadTask extends AsyncTask<String, Void, String> {
 
@@ -345,6 +351,8 @@ public class MapsActivity extends AppCompatActivity implements SensorEventListen
         Intent intent = new Intent(MapsActivity.this, Thermometer.class);
         startActivity(intent);
     }
+
+
 
 
 }
