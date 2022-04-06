@@ -35,7 +35,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="StartHBM"
-        android:text="Monitor Heartbeat Rate"
+        android:text="@string/monitor_heartbeat_rate"
 
         />
 
@@ -44,7 +44,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="StartThem"
-        android:text="Check Temperature"
+        android:text="@string/check_temperature"
 
         />
 
@@ -53,6 +53,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="StartBMI"
+        android:text="@string/start_bmi_calculator"
+
 
         />
 
